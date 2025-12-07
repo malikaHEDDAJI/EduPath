@@ -26,3 +26,4 @@ learning-analytics-platform/
 ├── environment.yml          # Conda environment (BERT + XGBoost + Pandas)
 ├── README.md                # Documentation
 └── requirements.txt         # Librairies (si pas conda)
+
