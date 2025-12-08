@@ -1,3 +1,10 @@
 # Données brutes (NE PAS UPLOAD)
 data/raw/
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
