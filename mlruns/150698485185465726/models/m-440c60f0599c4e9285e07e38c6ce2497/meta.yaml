@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/malik/Desktop/5IIR/Architecture/learning-analytics-platform/learning-analytics-platform/notebooks/../mlruns/150698485185465726/models/m-440c60f0599c4e9285e07e38c6ce2497/artifacts
+creation_timestamp: 1765302377201
+experiment_id: '150698485185465726'
+last_updated_timestamp: 1765302403932
+model_id: m-440c60f0599c4e9285e07e38c6ce2497
+model_type: null
+name: path_predictor_model
+source_run_id: bfe3a99542d9474aa815ad6cc23966dc
+status: 2
+status_message: null

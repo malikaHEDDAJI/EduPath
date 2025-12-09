@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/malik/Desktop/5IIR/Architecture/learning-analytics-platform/learning-analytics-platform/notebooks/../mlruns/150698485185465726/326c182a7e7944458b3091619c83f085/artifacts
+end_time: 1765301658900
+entry_point_name: ''
+experiment_id: '150698485185465726'
+lifecycle_stage: active
+run_id: 326c182a7e7944458b3091619c83f085
+run_name: gaudy-rook-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765301657464
+status: 4
+tags: []
+user_id: malik
