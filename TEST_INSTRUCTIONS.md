@@ -90,3 +90,4 @@ Exécutez d'abord le notebook `01_LMSConnector.ipynb` pour générer les donnée
 ### Erreur : ImportError
 Assurez-vous d'être dans le répertoire racine du projet (EduPath).
 
+
