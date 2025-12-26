@@ -43,7 +43,7 @@ async def predict(request: PredictionRequest):
     return {
         "student_id": request.student_id,
         "module_code": request.module_code,
-        "success_proba": 0.88, 
+        "success_proba": 0.88,
         "risk_level": "Low",
         "message": "Succès prédit (Mode Réparation)"
     }
